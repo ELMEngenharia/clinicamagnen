@@ -1,0 +1,32 @@
+#: locale=pt
+
+## Action
+
+### URL
+WebFrame_E3DE8C5A_FD1B_6074_41B3_DC0E41EE52B0.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d912.8760892808355!2d-53.303677971449034!3d-23.76504789866073!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94f2d10075d869c9%3A0x485089188a4d84a!2sClinica%20Magnem!5e0!3m2!1spt-BR!2sbr!4v1773835699943!5m2!1spt-BR!2sbr
+WebFrame_E3DE8C5A_FD1B_6074_41B3_DC0E41EE52B0_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d912.8760892808355!2d-53.303677971449034!3d-23.76504789866073!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94f2d10075d869c9%3A0x485089188a4d84a!2sClinica%20Magnem!5e0!3m2!1spt-BR!2sbr!4v1773835699943!5m2!1spt-BR!2sbr
+
+## Media
+
+### Audio
+audiores_E3588550_FD0D_A074_41D3_97CD4BA62CE8.mp3Url = media/audio_E3D51F5C_FD75_E06D_41E2_F66E770524DC_pt.mp3
+
+### Audio Subtitles
+
+### Subtitle
+panorama_B0DF0A23_BA03_40E6_41E6_046CB0FAA71A.subtitle = Entrada
+panorama_B0DB3057_BA03_40AE_41E5_A8A28CAE5DC5.subtitle = Fachada
+panorama_B62FC5F6_BA03_C36E_41B7_DBAC2BAC0D2D.subtitle = Recepção
+
+### Title
+panorama_B0DF0A23_BA03_40E6_41E6_046CB0FAA71A.label = Entrada
+panorama_B0DB3057_BA03_40AE_41E5_A8A28CAE5DC5.label = Fachada
+panorama_B62FC5F6_BA03_C36E_41B7_DBAC2BAC0D2D.label = Recepção
+
+## Tour
+
+### Description
+tour.description = Tour Virtual 360
+
+### Title
+tour.name = Clinica Magnen
